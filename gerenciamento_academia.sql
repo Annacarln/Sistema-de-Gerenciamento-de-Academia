@@ -81,7 +81,7 @@ INSERT INTO `exercicio` (`id_exercicio`, `nome`, `grupo_muscular`, `descricao`) 
 (9, 'Levantamento Terra', 'Costas/Pernas', 'Tirar a barra carregada do chão até a extensão total do quadril e tronco.'),
 (10, 'Elevação Lateral', 'Ombros', 'Em pé, elevar os halteres lateralmente até a altura dos ombros.');
 
--- --------------------------------------------------------
+-- -------------------------------------------------------
 
 --
 -- Estrutura para tabela `instrutor`
